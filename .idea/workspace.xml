@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9eac55d9-d710-4e46-9631-ceb5901e6204" name="Changes" comment="" />
+    <list default="true" id="9eac55d9-d710-4e46-9631-ceb5901e6204" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,12 +22,12 @@
     &quot;assignee&quot;: &quot;MityaDV&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:U-Ra-All/react-under-the-hood.git&quot;,
-    &quot;accountId&quot;: &quot;486fce17-31cc-403c-ab38-a1e9602d3431&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:MityaDV/react-under-the-hood.git",
+    "accountId": "486fce17-31cc-403c-ab38-a1e9602d3431"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -65,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1759218943116</updated>
       <workItem from="1759218944216" duration="1038000" />
-      <workItem from="1759220000857" duration="929000" />
+      <workItem from="1759220000857" duration="2162000" />
     </task>
     <servers />
   </component>
